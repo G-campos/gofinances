@@ -105,8 +105,8 @@ export function Dashboard() {
           renderItem={
             ({ item }) => <TransactionCard  data={ item }/>
           }
-        />
 
+        />
 
       </Transactions>
     </Container>
